@@ -41,7 +41,7 @@ jobs:
           const randomIds = ['inkride', 'tinytreads', 'tinyrise'];
           const randomHrefs = {
             inkride: '/inkride/',
-            tinytreads: '/tiny-treads/',
+            tinytreads: '/tinytreads/',
             tinyrise: '/tinyrise/'
           };
           const sha256 = bytes => crypto.createHash('sha256').update(bytes).digest('hex');
