@@ -104,7 +104,7 @@ jobs:
                 const mp4Requests = [];
                 page.on('request', request => {
                   const url = new URL(request.url());
-                  if (/\.mp4$/i.test(url.pathname)) mp4Requests.push(url.pathname + url.search);
+                  if (/\/games\/media\/[^/]+\.mp4$/i.test(url.pathname)) mp4Requests.push(url.pathname + url.search);
                 });
                 const response = await page.goto(pageUrls[i], {
                   waitUntil: 'domcontentloaded',
