@@ -1,0 +1,25 @@
+{
+  "repository": "speedslap",
+  "baseline": "3d943e903349d7a7c44678bffdca264f69e88e09",
+  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
+  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
+  "bio": "<p>SpeedSlap is a Chrome extension for controlling YouTube playback speed the way you actually want to: configurable keyboard shortcuts, scroll wheel control, a draggable on-screen overlay, and a speed that persists between videos instead of resetting.</p><p>By Tront (Trent Sterling), who built it because the built-in speed menu was not enough.</p>",
+  "title": "SpeedSlap by Tront",
+  "list": "<li><a href=\"https://tront.xyz/splitter/\">Splitter4GPT</a>: Split large text files into chunks that fit into ChatGPT and other language models.</li><li><a href=\"https://tront.xyz/text2pdf/\">Text2PDF</a>: Offline text editor that exports to PDF, entirely in your browser.</li>",
+  "hub": "<a href=\"https://tront.xyz/games/\">All games and tools</a> &middot; <a href=\"https://tront.xyz/blog/\">Devlog</a> &middot; <a href=\"https://tront.xyz/discord/\">Discord</a> &middot; <a href=\"https://github.com/TrentSterling/speedslap\">Source on GitHub</a> &middot; <a href=\"https://tront.xyz/\">tront.xyz</a>",
+  "jsonLd": "<script type=\"application/ld+json\">{\"@context\": \"https://schema.org\", \"@type\": \"SoftwareApplication\", \"name\": \"SpeedSlap\", \"alternateName\": [\"SpeedSlap by Tront\"], \"url\": \"https://tront.xyz/speedslap/\", \"description\": \"Chrome extension for proper YouTube playback speed control.\", \"author\": {\"@type\": \"Person\", \"name\": \"Trent Sterling\", \"alternateName\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"publisher\": {\"@type\": \"Organization\", \"name\": \"Tront\", \"url\": \"https://tront.xyz/\"}, \"isAccessibleForFree\": true, \"offers\": {\"@type\": \"Offer\", \"price\": \"0\", \"priceCurrency\": \"USD\"}, \"applicationCategory\": \"DeveloperApplication\", \"operatingSystem\": \"Web browser\"}</script>",
+  "scripts": [
+    "dd90d93a5b1cffb8fc5b6108be6a0583a6efbbd12f7c52687a0377fef5a73c2f",
+    "0cae8b3b838598e524d5e81348fce8214277cc83eb57c1d898c5efd0754b6d9e",
+    "d39b847da94c8af62df45b12dc852b90f14c080a002b3821d4b7304c3996cd50"
+  ],
+  "styles": [
+    "9f7ebe2926ed46d9baf5496df7b21c4f3e0466f239e195131a4f2f26a0f8500a"
+  ],
+  "videos": [],
+  "surfaceAttributes": [
+    "id=\"heroIcon\""
+  ],
+  "sharedMerge": "5c22da598774e04d2bc854850a8e72b3a7fdb66f"
+}
