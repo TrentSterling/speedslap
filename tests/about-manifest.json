@@ -1,8 +1,8 @@
 {
   "repository": "speedslap",
   "baseline": "3d943e903349d7a7c44678bffdca264f69e88e09",
-  "sharedRevision": "83dbfb4d8241501012c5ec22be49d79f28ccf6b7",
-  "javascriptSha256": "78e5f1cd0ab28f5361c445cecf6d539664d6ef5a39ceedb5228e2bfca5501bed",
+  "sharedRevision": "fcda637550b9237140c89f9e42465ddd1cb07bf0",
+  "javascriptSha256": "cb5935a8e19c692c26fb8df302396138393528b0272d4cf00d72a906019248f0",
   "cssSha256": "70723556209736cc1d9e8dff2aa2fb5e68157d6ab0de2983406376baad85a8d0",
   "bio": "<p>SpeedSlap is a Chrome extension for controlling YouTube playback speed the way you actually want to: configurable keyboard shortcuts, scroll wheel control, a draggable on-screen overlay, and a speed that persists between videos instead of resetting.</p><p>By Tront (Trent Sterling), who built it because the built-in speed menu was not enough.</p>",
   "title": "SpeedSlap by Tront",
